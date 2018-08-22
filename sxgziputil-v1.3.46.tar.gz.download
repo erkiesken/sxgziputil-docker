@@ -1,0 +1,7 @@
+#
+# Download the SpectX distributable from https://www.spectx.com/get-spectx
+#
+# Then unpack spectx-v*.tar.gz and copy over tools/sxgziputil-v*.tar.gz to this directory.
+#
+
+496cc641d07a00ff03d0843e6b63516ac7d251369e8e3a9a49f5602daa531e33  sxgziputil-v1.3.46.tar.gz
